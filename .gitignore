@@ -1,0 +1,6 @@
+__pycache__/
+*.dcm
+*.pdf
+*.jpg
+.DS_Store
+*.png
